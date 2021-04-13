@@ -30,6 +30,8 @@ class MainActivity : AppCompatActivity() {
         }
 
         funkcja4();
+
+        print("wojtek")
     }
 
     fun funkcja4()
@@ -40,5 +42,9 @@ class MainActivity : AppCompatActivity() {
     fun funkcja5()
     {
         System.out.println("Elo");
+    }
+
+    fun wojtekMetoda(){
+        print("Elo")
     }
 }
