@@ -46,5 +46,14 @@ class MainActivity : AppCompatActivity() {
 
     fun wojtekMetoda(){
         print("Elo")
+
+
+        print("wojtek")
     }
+
+
+
+
+
+
 }
