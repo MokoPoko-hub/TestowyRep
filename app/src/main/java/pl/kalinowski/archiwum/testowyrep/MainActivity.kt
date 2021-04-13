@@ -9,9 +9,14 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 
-        fun BartekMetoda()
-        {
-            System.out.println("Elo");
-        }
+        print("wojtek")
+    }
+
+
+
+
+
+    fun wojtekMetoda(){
+        print("Elo")
     }
 }
