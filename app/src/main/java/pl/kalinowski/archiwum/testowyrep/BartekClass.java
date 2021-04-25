@@ -1,5 +1,5 @@
 package pl.kalinowski.archiwum.testowyrep;
 
 public class BartekClass {
-    private static void nic;
+    private static String nic;
 }
