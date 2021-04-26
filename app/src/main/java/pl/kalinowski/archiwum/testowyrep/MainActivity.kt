@@ -8,15 +8,37 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        fun bartekMetoda(){
-            print("Elo")
+
+        fun BartekMetoda()
+        {
+            System.out.println("Elo");
         }
 
-        print("wojtek")
+        fun funkcja1()
+        {
+            System.out.println("Elo");
+        }
+
+        fun funkcja2()
+        {
+            System.out.println("Elo");
+        }
+
+        fun funkcja3()
+        {
+            System.out.println("Elo");
+        }
+
+        funkcja4();
     }
 
+    fun funkcja4()
+    {
+        System.out.println("Elo");
+    }
 
-    fun wojtekMetoda(){
-        print("Elo")
+    fun funkcja5()
+    {
+        System.out.println("Elo");
     }
 }
