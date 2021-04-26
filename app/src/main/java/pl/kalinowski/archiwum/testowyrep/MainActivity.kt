@@ -13,5 +13,32 @@ class MainActivity : AppCompatActivity() {
         {
             System.out.println("Elo");
         }
+
+        fun funkcja1()
+        {
+            System.out.println("Elo");
+        }
+
+        fun funkcja2()
+        {
+            System.out.println("Elo");
+        }
+
+        fun funkcja3()
+        {
+            System.out.println("Elo");
+        }
+
+        funkcja4();
+    }
+
+    fun funkcja4()
+    {
+        System.out.println("Elo");
+    }
+
+    fun funkcja5()
+    {
+        System.out.println("Elo");
     }
 }
